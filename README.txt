@@ -1,33 +1,8 @@
-Helios by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+저의 github에 오신 것을 환영합니다 !
 
+비전공자의 개발자 도전기를 함께 나눠보려 합니다 :)
 
-This is Helios, a brand new site template for HTML5 UP. It's clean, modern, and designed
-to take advantage of larger (well, wider) displays while still being capable of gracefully
-scaling down to fit all manner of smaller ones.
-
-Demo images* courtesy of Michael Domaradzki, an awesome photographer I met over at
-deviantART. Check out his portfolio here:
-
-http://md.photomerchant.net/
-
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Michaels's work without his explicit permission!)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Michael Domaradzki (md.photomerchant.net)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+저는 분자생명공학과를 전공하였고, 전공을 살려 약 4년간의 바이오 회사에서 근무하였습니다.
+만족스러운 직장을 해외 인턴 생활을 위해 떠났지만, 사정이 생겨 한순간에 실직자가 되어버렸습니다. (ㅠ.ㅠ)
+친구의 추천으로 프로그래밍에 관심이 생겼고
+BT+IT 융합 인재가 되어 보자는 결심에 개발자의 길에 뛰어들었답니다 !
